@@ -7,14 +7,12 @@
     "url": "https://github.com/vedidev/sails-pervasive/issues"
   },
   "dependencies": {
-    "async": "~0.2.9",
     "underscore": "~1.5.2",
     "underscore.string": "~2.3.3",
     "odbc": "~1.2.1"
   },
   "description": "Pervasive SQL Adapter for Sails.js",
   "devDependencies": {
-    "async": "0.2.9",
     "mocha": "1.10.0",
     "waterline-adapter-tests": "~0.9.4"
   },
