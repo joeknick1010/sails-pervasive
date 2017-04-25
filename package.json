@@ -14,7 +14,10 @@
   "description": "Pervasive SQL Adapter for Sails.js",
   "devDependencies": {
     "mocha": "1.10.0",
-    "waterline-adapter-tests": "~0.9.4"
+    "waterline-adapter-tests": "~0.9.4",
+    "eslint": "3.12.2",
+    "eslint-config-airbnb-base": "11.0.0",
+    "eslint-plugin-import": "2.2.0"
   },
   "directories": {},
   "dist": {
