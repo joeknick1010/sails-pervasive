@@ -56,5 +56,5 @@ node-gyp configure build
 
 ## License
 
-[MIT License] Copyright © 2013-2014 Sergei Belov
+[MIT License] Copyright © 2017 Vedidev, Pronin Egor
 
