@@ -1,6 +1,6 @@
 {
   "author": {
-    "name": "Vedidev, Pronin Egor",
+    "name": "VedideV, Pronin Egor",
     "email": "egor.pronin@vedidev.com"
   },
   "bugs": {
@@ -20,11 +20,7 @@
     "eslint-plugin-import": "2.2.0"
   },
   "directories": {},
-  "dist": {
-    "shasum": "f7c11327acdb1cd0554be1b2aaf709fba186abf5",
-    "tarball": "https://registry.npmjs.org/sails-pervasive/-/sails-pervasive-0.1.1.tgz"
-  },
-  "homepage": "https://github.com/sergeibelov/sails-pervasive#readme",
+  "homepage": "https://github.com/vedidev/sails-pervasive#readme",
   "keywords": [
     "orm",
     "waterline",
