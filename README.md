@@ -1,7 +1,7 @@
 ![image_squidhome@2x.png](http://i.imgur.com/RIvu9.png) 
 
 # sails-pervasive [![NPM version](https://badge.fury.io/js/sails-pervasive.png)](http://badge.fury.io/js/sails-pervasive)
-Microsoft SQL Server Adapter for Sails.js
+Pervasive Adapter for Sails.js
 
 ## Compatibility
 
