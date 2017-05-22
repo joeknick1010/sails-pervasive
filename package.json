@@ -9,7 +9,7 @@
   "dependencies": {
     "underscore": "~1.5.2",
     "underscore.string": "~2.3.3",
-    "odbc": "~1.2.1"
+    "odbc": "https://github.com/vedi/node-odbc"
   },
   "description": "Pervasive SQL Adapter for Sails.js",
   "devDependencies": {
